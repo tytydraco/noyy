@@ -1,0 +1,7 @@
+PATHS=(
+	# Enter repo paths here
+	# This file is sourced, not executed
+	# 
+	# Example:
+	# /home/user/Pictures
+)
