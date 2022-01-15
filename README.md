@@ -1,5 +1,5 @@
 # noyy
-Automatically commit and push git repos upon inode changes
+Automatically commit and push git repos upon inode changes  
 This is the more efficient successor to [slinky](https://github.com/tytydraco/slinky).
 
 # Install
