@@ -21,7 +21,7 @@ usage() {
 	echo "Automatically commit and push git repos upon inode changes
 Usage: $0 [-h] [-p PATH][-d DELAY] [-e EVENTS] [-q]
   -h				Show this screen
-  -p PATH			Specify a paths file (default: $PATHS_PATH)
+  -p PATH			Specify a paths file (default: $CONFIG)
   -d DELAY          Minimum time to sleep after each push (default: $TIMEOUT)
   -e EVENTS         Comma-separated inotify events to listen for (default: $EVENTS)
   -q                Quiet mode; no logs"
